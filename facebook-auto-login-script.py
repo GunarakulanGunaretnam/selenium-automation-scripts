@@ -1,3 +1,4 @@
+import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
@@ -9,7 +10,10 @@ search_bar.clear()
 search_bar.send_keys("facebook")
 search_bar.send_keys(Keys.RETURN)
 driver.find_element_by_xpath('//*[@id="rso"]/div[1]/div/div/div/div/div/div[1]/a/h3').click()
-search_bar = driver.find_element_by_id("testing_email")
+
+time.sleep(2)
+driver.find_element_by_id("email").send_keys("testing_email@fake.com")
+driver.find_element_by_id("pass").send_keys("12345678909876543")
 
 
 
