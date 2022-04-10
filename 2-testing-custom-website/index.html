@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+
+    <head>
+
+        <title>Testing Website</title>
+
+    </head>
+
+    <body>
+
+
+            <label>Person 1:</label>  <input type="text" id="fname" style="margin-bottom: 1%;"><br>
+            <label>Person 2:</label> <input type="text" id="lname"  style="margin-bottom: 1%;"><br>
+            
+            <button id="btn">Enter Data</button>
+
+            <hr>
+            
+      
+        <script>
+
+            window.onload = function(){
+
+
+                function createH1Element(text1, text2) 
+                {
+                    var h = document.createElement("h2");
+                    var t = document.createTextNode(text1+" | "+text2); 
+                    h.appendChild(t); 
+                    document.body.appendChild(h);
+                } 
+
+              
+                document.getElementById("btn").onclick = function(){
+
+                    var FirstName = document.getElementById("fname").value;
+                    var LastName = document.getElementById("lname").value;
+
+                    createH1Element(FirstName, LastName);
+
+
+                    document.getElementById("fname").value = "";
+                    document.getElementById("lname").value = "";
+                }
+            }
+
+
+        </script>
+
+
+    </body>
+
+
+</html>
