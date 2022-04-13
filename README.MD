@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Selenium is an open-source tool that automates web browsers. It provides a single interface that lets you write test scripts in programming languages like Ruby, Java, NodeJS, PHP, Perl, Python, and C#, among others.
+Selenium is an open-source tool that automates web browsers. It provides a single interface that lets you write test scripts in programming languages like Ruby, Java, NodeJS, PHP, Perl, Python, and C#.
 
-This repository contains a collation of python scripts that are built top on the Selenium framework. Selenium supports all types browsers supports, however, here we use only Google Chrome as a testing browser.
+This repository contains a collation of python scripts that are built top on the Selenium framework. Selenium supports all types of browsers; however, we use only Google Chrome as a testing browser.
 
 
 ![Banner](github-readme-contents/banner.png)
