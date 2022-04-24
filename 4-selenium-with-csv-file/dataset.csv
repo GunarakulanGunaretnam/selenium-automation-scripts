@@ -1,0 +1,101 @@
+Employee ID,Full Name,Date of Birth,Phone Number,Email,Gender,Department,Address,EPF/ETF
+1000,Jill Cross,5/28/1980,203-213-1241,bjoern@msn.com,male,Finance Department,"103 Gerhold Course, Suite 368, 46241-3029, North Tressa, Illinois, United States",yes
+1001,Lauren Rich,7/29/1980,240-232-5919,hutton@hotmail.com,male,Sales Department,"3019 Emile Knolls, Apt. 056, 94949-5166, Goldnershire, Vermont, United States",no
+1002,Michael Williams,10/6/1980,216-312-5541,rohitm@aol.com,female,Human Resource Department,"04751 Anderson Burgs, Apt. 385, 47917-5626, Justonville, Ohio, United States",yes
+1003,Daniel Hamilton,12/15/1980,317-317-7601,mxiao@live.com,female,Purchase Department,"386 Gleason Trafficway, Apt. 530, 92631-3997, East Nyamouth, Idaho, United States",no
+1004,Jason Sparks,3/16/1981,228-956-5404,pspoole@comcast.net,male,Development Department,"5723 Jordane Meadow, Suite 551, 13541-2959, Delbertchester, Oregon, United States",yes
+1005,Katelyn Roberts,3/20/1981,505-926-7383,jbarta@sbcglobal.net,male,Testing Department,"96075 Wehner Grove, Suite 072, 87777, Langoshport, Mississippi, United States",no
+1006,Rachel Harrison,4/29/1981,505-644-5906,niknejad@icloud.com,male,Training Department,"102 Terry Tunnel, Suite 790, 30865, Ariellefort, Delaware, United States",yes
+1007,Gina Franklin,8/21/1981,251-236-8682,kmiller@aol.com,female,Finance Department,"30049 Kendall Island, Suite 523, 32173, Ziemeburgh, Minnesota, United States",no
+1008,Paul Price,10/13/1981,424-748-9103,ranasta@aol.com,male,Sales Department,"54484 Brielle Highway, Suite 547, 53535-3761, New Katelinville, Oklahoma, United States",yes
+1009,Thomas Gomez,10/28/1981,629-217-9796,gknauss@comcast.net,male,Human Resource Department,"93245 Mills Plain, Apt. 984, 57680-6246, Jacobsontown, Iowa, United States",no
+1010,Alexis Sutton,1/16/1982,582-333-3672,gslondon@hotmail.com,male,Purchase Department,"11073 Walter Plaza, Suite 593, 30784-2186, East Mariela, Washington, United States",yes
+1011,Daniel Klein,7/2/1982,318-217-3348,dogdude@aol.com,female,Development Department,"506 Justina Isle, Suite 071, 04209-8782, West Josefina, California, United States",no
+1012,Roger Chavez,10/29/1982,582-300-3607,mbswan@yahoo.com,female,Testing Department,"9172 Grady Mills, Apt. 745, 84049-6449, New Ahmadbury, Tennessee, United States",yes
+1013,Hector Simpson,10/30/1982,326-483-4771,jaarnial@icloud.com,female,Training Department,"899 Moore Station, Apt. 385, 83209-1784, Terrellhaven, Virginia, United States",yes
+1014,Craig Thomas MD,12/24/1982,424-228-6185,loscar@aol.com,female,Finance Department,"7851 Jordyn Mountains, Apt. 349, 08122, West Giovanna, Utah, United States",no
+1015,Jordan Townsend,2/19/1983,212-999-3039,heine@me.com,male,Sales Department,"76362 Clyde Ranch, Apt. 549, 33721, North Kamrynfort, Louisiana, United States",yes
+1016,David Maxwell,5/26/1983,582-302-1443,tbeck@hotmail.com,male,Human Resource Department,"795 Hane Ford, Apt. 988, 76745-0962, Rutherfordchester, Arkansas, United States",no
+1017,Shannon Kirk,10/8/1983,582-400-2834,oracle@yahoo.com,male,Purchase Department,"800 Rigoberto Loaf, Suite 971, 21430, Dickishire, Washington, United States",yes
+1018,Susan Campos,1/26/1984,408-919-5906,aschmitz@me.com,female,Development Department,"56842 Larson Fields, Apt. 713, 88727, South Astridview, Iowa, United States",no
+1019,Russell Carter,1/27/1984,505-644-7976,isaacson@icloud.com,female,Testing Department,"680 Botsford Rapids, Suite 376, 54250-6327, Johannbury, Louisiana, United States",yes
+1020,Kristina Mckee,2/2/1984,582-282-2903,airship@me.com,male,Training Department,"8222 Eugenia Fork, Suite 668, 42592, North Palma, Ohio, United States",no
+1000,Riley Mcdowell,6/10/1984,203-878-1180,sequin@optonline.net,male,Finance Department,"7723 Kshlerin Wells, Suite 007, 96121-2543, North Lucioton, Wisconsin, United States",yes
+1001,Robert Ortiz,8/17/1984,582-282-9553,rande@yahoo.com,female,Sales Department,"9950 Abby Plains, Suite 777, 33281, Schowaltershire, Delaware, United States",no
+1002,Nathan Wolfe,9/19/1984,505-907-2050,ullman@optonline.net,female,Human Resource Department,"684 Maggio Green, Apt. 377, 08110, Port Alisha, Nevada, United States",yes
+1003,Jeremy Wright,3/3/1985,212-962-3683,philen@live.com,male,Purchase Department,"8131 Finn Plains, Apt. 487, 42358-5108, East Ruthestad, Washington, United States",no
+1004,Anthony Howard,5/27/1985,248-427-9978,dmbkiwi@yahoo.com,female,Development Department,"836 Braun Mountain, Suite 275, 62497, Lelandberg, West Virginia, United States",yes
+1005,Jeffrey Frederick,9/5/1985,228-717-7149,chrisk@live.com,male,Testing Department,"673 Bethel Ports, Apt. 384, 86056-7545, Adrianstad, Idaho, United States",yes
+1006,Jose Cruz,2/20/1986,205-711-5525,mhouston@yahoo.ca,female,Training Department,"044 Emmerich Plain, Suite 810, 09063, Lake Rae, Wyoming, United States",no
+1007,Angela Garcia,3/26/1986,582-300-7261,kildjean@hotmail.com,female,Finance Department,"07948 McKenzie Roads, Suite 007, 09602, Damarisport, Arizona, United States",yes
+1008,Matthew Hickman,4/6/1986,505-644-4149,vmalik@live.com,male,Sales Department,"021 Devon Glens, Suite 826, 39253, Jocelynhaven, Colorado, United States",no
+1009,David Johnston,7/23/1986,718-781-2497,atmarks@live.com,female,Human Resource Department,"903 Godfrey Views, Apt. 468, 89240, South Danika, Illinois, United States",yes
+1010,Judy Myers,9/4/1986,582-262-6230,ingolfke@icloud.com,female,Purchase Department,"090 Kutch Keys, Apt. 797, 90424-6064, New Hudson, Ohio, United States",no
+1011,Derrick Jensen,11/17/1986,505-712-7361,oracle@comcast.net,female,Development Department,"6242 Pollich Roads, Apt. 072, 27237, D'Amoreland, New Hampshire, United States",yes
+1012,Carla Mccullough,12/8/1986,582-333-8490,dsowsy@msn.com,female,Testing Department,"7235 Corine Roads, Apt. 699, 83510-5838, North Rockyville, Minnesota, United States",no
+1013,Cindy Davidson,12/27/1986,214-883-9584,dunstan@icloud.com,male,Training Department,"9256 Heaney Rue, Suite 471, 10746, South Camillaburgh, Montana, United States",yes
+1014,Mathew Edwards,1/22/1987,224-854-0264,kudra@yahoo.ca,female,Finance Department,"02120 Misty Burg, Suite 510, 84297-3606, Evelineville, Arkansas, United States",no
+1015,Nicholas Reyes,1/27/1987,539-438-0074,jsnover@hotmail.com,female,Sales Department,"239 Garnet Crossroad, Suite 565, 23022, Leschtown, Ohio, United States",yes
+1016,Michelle Reynolds,3/5/1987,220-532-3208,bcevc@live.com,male,Human Resource Department,"49762 Johnston Junctions, Apt. 590, 75341-0971, East Gina, Colorado, United States",no
+1017,Larry Williams,6/15/1987,582-333-1264,rohitm@att.net,female,Purchase Department,"563 Sylvia Grove, Suite 999, 93582, Port Ethylton, Rhode Island, United States",yes
+1018,Carolyn Mendoza,8/1/1987,505-644-7885,bebing@icloud.com,male,Development Department,"880 Terrill Branch, Apt. 466, 77877, Grimesfurt, Minnesota, United States",yes
+1019,Troy Hawkins,3/2/1988,224-454-7884,cyrus@mac.com,male,Testing Department,"74980 Roosevelt Plains, Suite 248, 39290, DuBuquebury, Alaska, United States",no
+1020,Brian Sullivan,4/7/1988,217-428-1679,wonderkid@aol.com,male,Training Department,"276 Pagac Knoll, Suite 122, 53487, Heidenreichtown, Maine, United States",yes
+1000,Emily Hogan,5/23/1988,582-333-8907,heine@yahoo.ca,male,Finance Department,"3759 Elyssa Lights, Apt. 943, 98515-5196, Schummstad, Nevada, United States",no
+1001,Jeffrey Lyons,7/30/1988,502-563-2859,lbaxter@verizon.net,female,Sales Department,"844 Dock Shore, Suite 389, 72584, Luigiborough, Wisconsin, United States",yes
+1002,Jennifer Barnett,10/4/1988,215-873-0680,jdhildeb@live.com,female,Human Resource Department,"183 Brakus Corners, Suite 464, 55431-8779, Francochester, Kentucky, United States",no
+1003,Samantha Howard,1/18/1989,229-232-4649,giafly@gmail.com,female,Purchase Department,"98201 Heller Isle, Apt. 726, 23178, West Keanu, Arkansas, United States",yes
+1004,Gregory Hayes,1/29/1989,214-529-7101,duncand@yahoo.ca,female,Development Department,"031 Hulda Ford, Apt. 515, 48049-6149, Ratkefurt, Indiana, United States",no
+1005,Laura White,3/23/1989,248-391-3024,jfreedma@yahoo.ca,female,Testing Department,"640 Gerlach Rapid, Apt. 669, 52053, Tromptown, Nebraska, United States",yes
+1006,Jacqueline Luna,4/24/1989,218-230-7774,british@mac.com,female,Training Department,"51398 Wellington Hill, Suite 960, 03058-3899, East Emilyhaven, North Carolina, United States",no
+1007,Michael Fernandez,11/19/1989,216-503-0350,sokol@optonline.net,female,Finance Department,"054 German Pine, Suite 010, 46132, Lianaland, South Carolina, United States",yes
+1008,Thomas Harris,11/22/1989,582-333-1062,fmtbebuck@me.com,female,Sales Department,"79717 Reyna Fort, Apt. 619, 64222-8963, Lake Domenicomouth, Louisiana, United States",no
+1009,Stephanie Baker,12/18/1989,582-400-4343,pmint@gmail.com,male,Human Resource Department,"418 Palma Via, Apt. 815, 17533-7062, New Hilton, New York, United States",yes
+1010,Valerie Velazquez,4/12/1990,505-644-1997,bbirth@icloud.com,female,Purchase Department,"760 Zemlak Underpass, Apt. 319, 25364, Pascaleville, Vermont, United States",yes
+1011,David Ball,4/29/1990,212-308-9111,ovprit@comcast.net,male,Development Department,"717 Schiller Inlet, Apt. 204, 75151, New Silas, Rhode Island, United States",no
+1012,David Li,5/8/1990,312-290-2033,cyrus@hotmail.com,male,Testing Department,"4078 Gleason Extension, Suite 024, 86599-6392, South Sidney, West Virginia, United States",yes
+1013,Mathew Mann,8/7/1990,582-302-2504,pereinar@hotmail.com,male,Training Department,"6767 Mike Ridge, Apt. 917, 75005-7110, Jarretthaven, Massachusetts, United States",no
+1014,George Wong,10/29/1990,582-282-4886,netsfr@yahoo.ca,male,Finance Department,"70118 Arlene Rapid, Apt. 821, 49440, West Deannamouth, Hawaii, United States",yes
+1015,Benjamin Chan,1/19/1991,212-919-5063,granboul@live.com,male,Sales Department,"58313 Faye Station, Apt. 479, 11978, West Jorgetown, Nebraska, United States",no
+1016,Bryan Williams,4/16/1991,582-333-9767,scotfl@verizon.net,male,Human Resource Department,"76953 Powlowski Prairie, Apt. 458, 55987-4988, Marvinbury, Kansas, United States",yes
+1017,Pamela Stewart,5/7/1991,582-777-8842,hahsler@sbcglobal.net,female,Purchase Department,"0542 Botsford Streets, Suite 235, 56381-0601, New Elmoreborough, New Jersey, United States",no
+1018,Glenn Hall,6/2/1991,303-927-0474,tedrlord@verizon.net,female,Development Department,"634 Wiza Creek, Apt. 032, 08375, Magaliberg, Montana, United States",yes
+1019,Charlene Mccann,8/27/1991,505-875-4782,rsmartin@hotmail.com,female,Testing Department,"147 Amely Forge, Apt. 208, 65330-3985, Gaylordview, Oklahoma, United States",no
+1020,Marilyn Martinez,9/2/1991,203-697-8051,kludge@outlook.com,male,Training Department,"91829 MacGyver Knoll, Apt. 676, 53118, West Velvaton, Maine, United States",yes
+1000,Michael Vargas,10/7/1992,505-413-4065,onestab@outlook.com,female,Finance Department,"994 Graham Plains, Suite 342, 58134-7441, Naomihaven, California, United States",no
+1001,Randy Norris,1/22/1993,582-201-0274,netsfr@verizon.net,male,Sales Department,"220 Auer Rue, Suite 724, 15882, West Theodore, South Dakota, United States",yes
+1002,Sarah Peterson,6/4/1993,248-780-4591,mbrown@verizon.net,female,Human Resource Department,"543 Halvorson Creek, Suite 735, 52745, East Ariellemouth, Maine, United States",yes
+1003,Nicholas Barnett,10/28/1993,505-644-3616,ismail@yahoo.com,male,Purchase Department,"75854 Borer Inlet, Apt. 654, 18819, Murazikfort, Minnesota, United States",no
+1004,Catherine Morris,1/4/1994,301-422-8528,mchugh@sbcglobal.net,male,Development Department,"2377 O'Kon Ford, Apt. 122, 81244, Arliechester, Kentucky, United States",yes
+1005,Melanie Cox,3/19/1994,505-644-5821,budinger@msn.com,male,Testing Department,"2281 Feest Plain, Apt. 680, 85900, Nikkoshire, Idaho, United States",no
+1006,Paige Harrison,4/8/1994,239-897-7314,dimensio@comcast.net,female,Training Department,"56173 Rachael Views, Suite 940, 02455, New Anabelleview, Virginia, United States",yes
+1007,Shannon George,11/15/1994,231-711-6200,juerd@mac.com,male,Finance Department,"484 Satterfield Corners, Suite 127, 65757, Hauckland, Kansas, United States",no
+1008,Samuel Russo,3/18/1995,401-542-1899,symbolic@icloud.com,male,Sales Department,"024 Estella Ports, Suite 288, 89800-6453, North Favian, Indiana, United States",yes
+1009,Yolanda Jones,6/10/1995,520-859-8383,mavilar@comcast.net,female,Human Resource Department,"6374 Peter Ramp, Suite 086, 42457, Luellamouth, Virginia, United States",no
+1010,Robert Lewis,7/20/1995,582-333-5250,szymansk@hotmail.com,male,Purchase Department,"6177 Legros Port, Apt. 243, 35928, North Raleigh, West Virginia, United States",yes
+1011,James Shaw,8/9/1995,582-465-2290,pthomsen@aol.com,female,Development Department,"48297 Dameon Extension, Apt. 478, 63552, East Isabell, Iowa, United States",no
+1012,Aaron Rosales,11/8/1995,582-333-2310,preneel@outlook.com,female,Testing Department,"64863 Boyle Mountains, Apt. 399, 27392-0999, Tianamouth, Illinois, United States",yes
+1013,Monica Sanders,12/13/1995,316-539-1576,joehall@yahoo.ca,female,Training Department,"575 Konopelski Flats, Suite 825, 36034, Dustinton, Washington, United States",no
+1014,Mary Schneider,3/9/1996,205-955-1033,leslie@yahoo.com,female,Finance Department,"891 Franecki Bridge, Suite 889, 97379-2402, Huelshaven, Louisiana, United States",yes
+1015,Michael Frost,1/4/1997,341-387-2013,hikoza@att.net,male,Sales Department,"389 Bins Mission, Suite 119, 50642, South Normachester, Idaho, United States",yes
+1016,Dr. Debra Mcmillan,1/25/1997,201-932-8672,szymansk@optonline.net,male,Human Resource Department,"775 Graham Cliff, Suite 617, 21540, East Imaborough, Oregon, United States",no
+1017,Taylor Lee,2/5/1997,205-776-0201,laird@outlook.com,female,Purchase Department,"08943 Grady Parks, Suite 005, 68695, Nataliafort, North Dakota, United States",yes
+1018,Joseph Fuller,4/19/1997,582-400-1931,philb@aol.com,female,Development Department,"533 Mertz Keys, Apt. 049, 17945, Cummingsside, Minnesota, United States",no
+1019,Christian Wilson,5/4/1997,218-818-4422,jpflip@yahoo.ca,male,Testing Department,"98796 Junius Roads, Suite 730, 39637-5641, New Kaylie, Georgia, United States",yes
+1020,Jill Hogan,6/27/1997,505-644-7090,nanop@gmail.com,male,Training Department,"265 Kub Ville, Apt. 163, 22533-6037, East Carter, North Dakota, United States",no
+1000,Jason Ponce,7/28/1997,310-284-8439,notaprguy@sbcglobal.net,male,Finance Department,"0987 Nader Fall, Apt. 903, 78064, Gulgowskiview, California, United States",yes
+1001,William Kane,9/16/1997,505-644-0484,heckerman@me.com,male,Sales Department,"30981 Mertz Camp, Suite 607, 67532-3209, Buckberg, Wyoming, United States",no
+1002,Anna Turner,12/16/1997,216-210-4792,tattooman@aol.com,female,Human Resource Department,"2344 Wyman Divide, Suite 222, 84343-9229, Jonesmouth, Michigan, United States",yes
+1003,Robert Pitts,2/9/1998,326-353-5762,doche@yahoo.com,male,Purchase Department,"483 Bayer Summit, Suite 872, 04905, Stephanyton, New Hampshire, United States",no
+1004,Laura Cruz,4/8/1998,582-302-1868,qmacro@icloud.com,female,Development Department,"728 Halvorson Cliffs, Suite 408, 74172, Leonardchester, South Dakota, United States",yes
+1005,Jeffrey Shaffer,6/27/1998,248-238-6478,adamk@yahoo.ca,male,Testing Department,"1925 Katlynn Extension, Suite 648, 85787, Schowalterhaven, Vermont, United States",no
+1006,Cody Huff,7/18/1998,346-545-3396,liedra@hotmail.com,male,Training Department,"775 Jed Cove, Apt. 068, 25815-4127, West Myahhaven, Iowa, United States",yes
+1007,Alison Anderson,9/14/1998,505-852-6851,library@icloud.com,male,Finance Department,"944 Adell Trail, Apt. 984, 92978, Bennychester, Maine, United States",yes
+1008,Kathryn Jimenez,11/10/1998,435-290-3008,chaikin@msn.com,male,Sales Department,"5606 Bradley Plain, Suite 277, 49305-3044, Port Hendersonchester, Alaska, United States",no
+1009,Melissa Madden,11/19/1998,202-549-3191,bartak@msn.com,female,Human Resource Department,"13211 Price Path, Suite 742, 74384, Nyahstad, Arizona, United States",yes
+1010,William Keller,12/6/1998,505-498-8958,pgottsch@att.net,female,Purchase Department,"718 Jaskolski Plaza, Apt. 902, 06602, East Misael, Indiana, United States",no
+1011,Lisa Ford,3/25/1999,582-300-5202,ghaviv@aol.com,female,Development Department,"811 Rice Hollow, Suite 175, 54858, New Orieton, Nebraska, United States",yes
+1012,Justin Bridges,4/9/1999,220-721-6648,isorashi@att.net,male,Testing Department,"04704 Nathen Ville, Suite 112, 34714, Jedediahberg, West Virginia, United States",no
+1013,Christopher Brennan,4/29/1999,582-888-4251,mgemmons@hotmail.com,female,Training Department,"72364 Aubree Via, Suite 146, 11587-6598, Bruenbury, Nebraska, United States",yes
+1014,Sara Morgan,8/31/1999,201-673-3360,mobileip@aol.com,male,Finance Department,"7891 Cummings Island, Apt. 799, 76455-3733, Port Ashly, Michigan, United States",no
+1015,David Ruiz,2/2/2000,234-969-6908,giafly@yahoo.ca,female,Sales Department,"3426 Garrison Square, Apt. 992, 81046-9701, Thompsonhaven, Louisiana, United States",yes
