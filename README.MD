@@ -1,4 +1,4 @@
-# SELENIUM AUTOMATION SCRIPTS
+# Selenium Automation Scripts
 
 ## Introduction
 
@@ -73,7 +73,7 @@ python script-name.py
 python facebook-auto-login-script.py
 ```
 
-# CONTACT
+# Contact
 
 ### Website: 
 
